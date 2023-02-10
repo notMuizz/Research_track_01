@@ -43,11 +43,6 @@ The main task is to first find the Silver Token by constantly updating the dista
 	When done, copy this python file in folder of simulator and run with:
 	$ python run.py assignment.py
 	
-	
-![flow](https://user-images.githubusercontent.com/48551115/201193198-5d2d1acd-9900-4c3e-904a-6c1867b53741.svg)
-
-
-
 ### Input: 
 
 ![input](https://user-images.githubusercontent.com/48551115/201195037-45b27c93-6eb0-4d0e-90e4-b6a7dd29a022.png)
@@ -56,5 +51,3 @@ The main task is to first find the Silver Token by constantly updating the dista
 ### Ouput: 
 
 ![output](https://user-images.githubusercontent.com/48551115/201195045-f4791d94-c300-47ef-a18e-e0dc839c9ec5.png)
-
-
